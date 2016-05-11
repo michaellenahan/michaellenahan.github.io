@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <title><![CDATA[michaellenahan.github.io]]></title>
     <link href="/atom.xml" rel="self"/>
     <link href="/"/>
-    <updated>2016-05-11T22:17:01+02:00</updated>
+    <updated>2016-05-11T22:26:45+02:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
